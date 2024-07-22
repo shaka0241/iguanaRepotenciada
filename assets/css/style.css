@@ -7,16 +7,17 @@ body {
     background-color: #000000;
 }
 
-header h1 {
+.header__title {
     font-size: 50px;
     text-align: center;
     padding: 20px;
     margin: 0;
     }
 
-.header_iguana img{
+.header__img {
     width: 100%;
 }
+
 
 .desc-section {
     padding: 60px 0;
